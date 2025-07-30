@@ -48,8 +48,11 @@ The dataset is derived from the **World Happiness Report** and includes features
 
 ## 📂 File Structure
 ├── happiness_prediction.ipynb
+
 ├── README.md
+
 └── data/
+
   └── world_happiness.csv
 
 ## 📌 Key Takeaways
