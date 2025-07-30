@@ -53,7 +53,7 @@ The dataset is derived from the **World Happiness Report** and includes features
 
 └── data/
 
-  └── world_happiness.csv
+    └── world_happiness.csv
 
 ## 📌 Key Takeaways
 
