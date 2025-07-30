@@ -46,15 +46,6 @@ The dataset is derived from the **World Happiness Report** and includes features
 | Random Forest (default) | **~79.8%** | ~0.77    | Best overall performance                  |
 | Random Forest (tuned)   | ~78.9%   | ~0.78    | Balanced recall across all classes        |
 
-## 📂 File Structure
-├── happiness_prediction.ipynb
-
-├── README.md
-
-└── data/
-
-    └── world_happiness.csv
-
 ## 📌 Key Takeaways
 
 - **Random Forest** outperformed Logistic Regression in most metrics.
